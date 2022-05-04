@@ -53,7 +53,8 @@ export class TodoView extends View {
   }
 
   updateTodoState(todo: Todo, done: boolean) {
-    const updatedTodo = { ...todo, done };
+    todo.done = done;
+    const updatedTodo = { ...todo };
     this.todos = this.todos.map((t) => (t.id === todo.id ? updatedTodo : t));
     TodoEndpoint.save(updatedTodo);
   }
