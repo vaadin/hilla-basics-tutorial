@@ -2,9 +2,9 @@ import { html } from 'lit';
 
 import { customElement, state } from 'lit/decorators.js';
 
-import '@vaadin/vaadin-text-field';
-import '@vaadin/vaadin-button';
-import '@vaadin/vaadin-checkbox';
+import '@vaadin/text-field';
+import '@vaadin/button';
+import '@vaadin/checkbox';
 import { Binder, field } from '@hilla/form';
 import Todo from 'Frontend/generated/com/example/application/Todo';
 import TodoModel from 'Frontend/generated/com/example/application/TodoModel';
