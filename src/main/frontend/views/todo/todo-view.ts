@@ -5,7 +5,7 @@ import { customElement, state } from 'lit/decorators.js';
 import '@vaadin/text-field';
 import '@vaadin/button';
 import '@vaadin/checkbox';
-import { Binder, field } from '@hilla/form';
+import { Binder, field } from '@vaadin/hilla-lit-form';
 import Todo from 'Frontend/generated/com/example/application/Todo';
 import TodoModel from 'Frontend/generated/com/example/application/TodoModel';
 import { TodoEndpoint } from 'Frontend/generated/endpoints';
