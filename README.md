@@ -1,6 +1,6 @@
 # Hilla Basics Application
 
-This repository contains the source code for the [Hilla Basics Tutorial](https://hilla.dev/docs/tutorials/basics-tutorial).
+This repository contains the source code for the [Hilla Basics Tutorial](https://vaadin.com/docs/latest/hilla/lit/start/basics).
 
 ## Running the Application
 
