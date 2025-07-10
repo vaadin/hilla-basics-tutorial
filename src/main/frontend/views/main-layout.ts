@@ -3,7 +3,6 @@ import { AppLayout } from '@vaadin/app-layout';
 import '@vaadin/app-layout/vaadin-drawer-toggle';
 import '@vaadin/avatar/vaadin-avatar';
 import '@vaadin/context-menu';
-import '@vaadin/polymer-legacy-adapter';
 import '@vaadin/tabs';
 import '@vaadin/tabs/vaadin-tab';
 import { html } from 'lit';

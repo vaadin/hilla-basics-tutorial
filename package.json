@@ -154,7 +154,6 @@
     "@vaadin/notification": "$@vaadin/notification",
     "@vaadin/number-field": "$@vaadin/number-field",
     "@vaadin/password-field": "$@vaadin/password-field",
-    "@vaadin/polymer-legacy-adapter": "$@vaadin/polymer-legacy-adapter",
     "@vaadin/progress-bar": "$@vaadin/progress-bar",
     "@vaadin/radio-group": "$@vaadin/radio-group",
     "@vaadin/scroller": "$@vaadin/scroller",
@@ -167,7 +166,6 @@
     "@vaadin/upload": "$@vaadin/upload",
     "@vaadin/vaadin-development-mode-detector": "$@vaadin/vaadin-development-mode-detector",
     "@vaadin/vaadin-lumo-styles": "$@vaadin/vaadin-lumo-styles",
-    "@vaadin/vaadin-material-styles": "$@vaadin/vaadin-material-styles",
     "@vaadin/router": "$@vaadin/router",
     "@vaadin/vaadin-usage-statistics": "$@vaadin/vaadin-usage-statistics",
     "@vaadin/vertical-layout": "$@vaadin/vertical-layout",
@@ -205,7 +203,9 @@
     "@vaadin/card": "$@vaadin/card",
     "@vaadin/markdown": "$@vaadin/markdown",
     "@vaadin/master-detail-layout": "$@vaadin/master-detail-layout",
-    "@vaadin/react-components": "24.8.3"
+    "@vaadin/react-components": "24.8.3",
+    "@vaadin/polymer-legacy-adapter": "$@vaadin/polymer-legacy-adapter",
+    "@vaadin/vaadin-material-styles": "$@vaadin/vaadin-material-styles"
   },
   "vaadin": {
     "dependencies": {
